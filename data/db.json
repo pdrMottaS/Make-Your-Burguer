@@ -77,5 +77,18 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "Pedro",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opicionais": [
+        "Bacon",
+        "Salame",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    }
+  ]
 }
